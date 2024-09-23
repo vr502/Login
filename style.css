@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200..800;1,200..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;;
+}
+
+:root{
+    --background-body: #335bd5;
+    --button-background: #335BD5;
+    --color-description: #515358;
+    --color-text-button: #fff;
+}
+
+body{
+    background: var(--background-body);
+}
+
+.login{
+    width: 400px;
+    height: 500px;
+    margin: 50px auto;
+    padding: 40px 20px;
+    background: #fff;
+    border-radius: 6px;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.login__emailContainer,
+.login__passwordContainer{
+    margin: 10px;
+  
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+    
+}
+
+.align__text{
+    text-align: center;
+}
+
+.login__title{
+    font-size: 2rem;
+    font-weight: 700;
+    margin: 5px;
+}
+
+.login__description{
+    color: var(--color-description);
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+
+input{
+    height: 40px;
+    border-radius: 5px;
+    border: 0.5px solid var(--background-body);
+    text-align: center;
+}
+
+.login__button{
+    height: 40px;
+    margin: 10px;
+    background: var(--button-background);
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    font-size: 1rem;
+
+}
