@@ -10,7 +10,8 @@ El propocito de este login es usar la tecnologia css y html sin framework, para 
 - [@vr502](https://github.com/vr502)
 
 
-## Demo
+## Screenshots
 
-https://iili.io/dsxUgCx.png
+![App Screenshot](https://raw.githubusercontent.com/vr502/Login/refs/heads/main/Demo/retoLogin.jpg)
+
 
