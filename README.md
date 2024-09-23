@@ -12,6 +12,6 @@ El propocito de este login es usar la tecnologia css y html sin framework, para 
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/vr502/Login/refs/heads/main/Demo/retoLogin.jpg)
+![App Screenshot](https://raw.githubusercontent.com/vr502/Login/refs/heads/main/Demo/LoginVr502.jpg)
 
 
