@@ -71,5 +71,9 @@ input{
     border: none;
     border-radius: 6px;
     font-size: 1rem;
+}
 
+.login__forgotpass{
+    text-align: center;
+    margin-top: 10px;
 }
